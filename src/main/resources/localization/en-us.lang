@@ -1,0 +1,7 @@
+#en-US lang file
+
+fun:
+  minesweeper: "Minesweeper"
+  numBombs: "Number of Bombs: {$1$}"
+  difficultyLevel: "Difficulty Level: {$1$}"
+  minesweeperCommandDescription: "Play a game of Minesweeper"

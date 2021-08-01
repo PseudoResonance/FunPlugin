@@ -1,0 +1,7 @@
+#ja-JP lang file
+
+fun:
+  minesweeper: "マインスイーパー"
+  numBombs: "爆弾の数：　{$1$}"
+  difficultyLevel: "難易度：　{$1$}"
+  minesweeperCommandDescription: "マインスイーパーのゲームを遊ぶ"
